@@ -1,0 +1,3 @@
+import_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: ImportBundle:Default:index }
